@@ -88,19 +88,7 @@ Focused on scalable workflows, AI agents, CRM automations, and backend systems t
 - 🔗 Tools: Postman, GitHub, Notion
 - 🧠 Interests: AI Systems, Backend Architecture, Automation
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<a href="https://github.com/gxxzvb1005-creator">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gxxzvb1005-creator&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxxzvb1005-creator&layout=compact&langs_count=8&theme=radical"/>
-</a>
-
-</p>
 ---
 
 ## 🌍 Connect With Me
